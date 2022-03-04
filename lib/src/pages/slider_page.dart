@@ -36,7 +36,7 @@ class _SliderPageState extends State<SliderPage> {
         label: "Tamaño de la imagen",
         value: _valSlider,
         min: 10.0,
-        max: 400.0,
+        max: 399.0,
         onChanged: (_bloqCheck)
             ? null
             : (valor) {
